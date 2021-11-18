@@ -13,10 +13,12 @@
     <mask>*.pom</mask>
     <mask>*.JAVA</mask>
     <mask>*.js</mask>
-    <mask>*.jsp</mask>
     <mask>*dao*</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
